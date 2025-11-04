@@ -37,7 +37,7 @@ Worked on full-stack development, system architecture, and backend solutions for
 
 ### 🚀 Key Projects
 
-#### 🃏 PokerBaazi (May 2023 – Dec 2024)
+#### 🃏 PokerPlay (May 2023 – Dec 2024)
 An online poker platform with admin panel and code auto-generators.  
 **Tech Stack:** Node.js, Firebase Cloud Functions, React.js, Stoplight
 
@@ -49,7 +49,7 @@ Migrated backend from Java Spring Boot to Node.js with GraphQL APIs.
 Microservice-based backend managing staffing contracts for resorts.  
 **Tech Stack:** Sails.js, Node.js, MySQL, JMeter, Vue.js
 
-#### 🌻 Cropwise Seed Selector (Jul 2019 – Jun 2020)
+#### 🌻 Seed Selector (Jul 2019 – Jun 2020)
 Agriculture app for seed selection, weather prediction, and region mapping.  
 **Tech Stack:** Node.js, PostgreSQL, Mapbox API
 
