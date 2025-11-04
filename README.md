@@ -92,7 +92,7 @@ Online training and meeting scheduling platform.
 ### 📫 Connect with Me
 
 🌐 [LinkedIn](https://www.linkedin.com/in/trivedijaina9)  
-📧 Email: `your.email@example.com`  
+📧 Email: `jaina.tech1998@gmail.com`  
 💼 Portfolio: *coming soon*
 
 ---
